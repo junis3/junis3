@@ -1,4 +1,4 @@
-### Hi there 👋
+오늘도 행복한 하루 되세요~
 
 <!--
 **junis3/junis3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
