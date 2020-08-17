@@ -1,4 +1,7 @@
-오늘도 행복한 하루 되세요~
+Stay happy today!
+오늘도 행복한 하루 되세요!
+
+http://junie.land/
 
 <!--
 **junis3/junis3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
